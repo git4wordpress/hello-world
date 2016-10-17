@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Hello Cat</title>
+  <title>Hello Elephant</title>
 </head>
 <body>
   <h1>Hello World</h1>
